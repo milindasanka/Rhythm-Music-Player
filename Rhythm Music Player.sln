@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rhythm Music Player", "Rhythm Music Player\Rhythm Music Player.csproj", "{CAE5C07E-B3A1-4C46-94DF-7BFB7066D18E}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Rhythm Setup", "..\Setup\Rhythm Setup\Rhythm Setup.vdproj", "{00FC9DC8-6250-4987-AC60-195524791E20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAE5C07E-B3A1-4C46-94DF-7BFB7066D18E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAE5C07E-B3A1-4C46-94DF-7BFB7066D18E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAE5C07E-B3A1-4C46-94DF-7BFB7066D18E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAE5C07E-B3A1-4C46-94DF-7BFB7066D18E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00FC9DC8-6250-4987-AC60-195524791E20}.Debug|Any CPU.ActiveCfg = Release
+		{00FC9DC8-6250-4987-AC60-195524791E20}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99A588FD-F04A-4C4C-A957-5807D5060919}
+	EndGlobalSection
+EndGlobal

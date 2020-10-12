@@ -1,0 +1,12 @@
+D:\HNDIT Indivijual Project\App\Rhythm Music Player\Rhythm Music Player\obj\Release\Rhythm Music Player.csprojAssemblyReference.cache
+D:\HNDIT Indivijual Project\App\Rhythm Music Player\Rhythm Music Player\obj\Release\Interop.WMPLib.dll
+D:\HNDIT Indivijual Project\App\Rhythm Music Player\Rhythm Music Player\obj\Release\AxInterop.WMPLib.dll
+D:\HNDIT Indivijual Project\App\Rhythm Music Player\Rhythm Music Player\obj\Release\Rhythm Music Player.csproj.ResolveComReference.cache
+D:\HNDIT Indivijual Project\App\Rhythm Music Player\Rhythm Music Player\obj\Release\Rhythm_Music_Player.downloder.resources
+D:\HNDIT Indivijual Project\App\Rhythm Music Player\Rhythm Music Player\obj\Release\Rhythm_Music_Player.Form1.resources
+D:\HNDIT Indivijual Project\App\Rhythm Music Player\Rhythm Music Player\obj\Release\Rhythm_Music_Player.Form2.resources
+D:\HNDIT Indivijual Project\App\Rhythm Music Player\Rhythm Music Player\obj\Release\Rhythm_Music_Player.Form3.resources
+D:\HNDIT Indivijual Project\App\Rhythm Music Player\Rhythm Music Player\obj\Release\Rhythm_Music_Player.Properties.Resources.resources
+D:\HNDIT Indivijual Project\App\Rhythm Music Player\Rhythm Music Player\obj\Release\Rhythm Music Player.csproj.GenerateResource.cache
+D:\HNDIT Indivijual Project\App\Rhythm Music Player\Rhythm Music Player\bin\Release\Rhythm Music Player.exe.config
+D:\HNDIT Indivijual Project\App\Rhythm Music Player\Rhythm Music Player\obj\Release\Rhythm Music Player.csprojResolveAssemblyReference.cache
